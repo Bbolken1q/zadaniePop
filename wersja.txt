@@ -1,2 +1,2 @@
 ssssssssss testuje
-Zmiana wprowadzona przez edyton online na githubie
+dodano linijkę przez edytor GitHuba
